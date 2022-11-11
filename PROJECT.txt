@@ -1,0 +1,5 @@
+TITLE: GUEST HOUSE MANAGEMENT SYSTEM 
+on the system proposed guestes are able to monitor and book the rooms online wherever they are, either on the same region location or other region: A case of tanzania
+MEMBERS:
+DAMIAN B MGIMBA
+ISACK J NYAGAWA 
